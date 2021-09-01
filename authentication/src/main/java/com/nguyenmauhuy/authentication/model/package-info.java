@@ -1,0 +1,1 @@
+package com.nguyenmauhuy.authentication.model;
